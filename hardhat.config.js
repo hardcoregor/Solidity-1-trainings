@@ -18,9 +18,9 @@ module.exports = {
         hardhat: {
             chainId: 31337,
             blockConfirmations: 1,
-            forking: {
-              url: MAINNET_RPC_URL,
-            }
+            // forking: {
+            //   url: MAINNET_RPC_URL,
+            // }
         },
         // goerli: {
         //     chainId: 5,
